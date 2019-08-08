@@ -21,5 +21,5 @@ Issues can be <a href="https://github.com/crafting-for-christ/Issues/issues/new"
  - Make 'lists' of issues, please make a separate issue for each problem.
  - Attempt to attack the issues page with malicious intent such as trolling or being rude (doing this excessive times will get you banned from this repository).
 
-## Title
+### Title
 Provide a brief summary of the issue, the title will help us get an idea of what we'll be looking at.
